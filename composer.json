@@ -1,0 +1,22 @@
+{
+    "name": "aoxiang/jd-jos-sdk",
+    "description": "京东宙斯sdk接口",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "require-dev": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "Aoxiang",
+        "email": "mail@aoxiang.me"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Aoxiang\\JdJos\\": "src/"
+        }
+    }
+}
